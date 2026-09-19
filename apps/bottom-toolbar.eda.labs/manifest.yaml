@@ -8,7 +8,7 @@ spec:
       - networking
     documentation: bottom_toolbar/docs
     ociSpecVersion: v1.0.0
-    appImageDigest: sha256:3ea865c71573211a2ad1ef34a1810a6896f66f422eb52d4e928cd1f530e0c33e
+    appImageDigest: sha256:bcd65d5cae19368e15ea2fb5d902a5585df17f1100ba057425926de3f3547dfc
   author: eda-labs
   supportedEndpoints:
     - "srl:25.*.*"
