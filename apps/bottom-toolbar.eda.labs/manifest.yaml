@@ -8,7 +8,7 @@ spec:
       - networking
     documentation: bottom_toolbar/docs
     ociSpecVersion: v1.0.0
-    appImageDigest: sha256:bcd65d5cae19368e15ea2fb5d902a5585df17f1100ba057425926de3f3547dfc
+    appImageDigest: sha256:0f737c31016c7ff6ea9ec07307d402095988bb22ee6eab6c7776307900c78a4f
   author: eda-labs
   supportedEndpoints:
     - "srl:25.*.*"
@@ -26,7 +26,7 @@ spec:
         path: bottom_toolbar/intents
   description: Set some crazy message in the CLI's bottom toolbar of the SR Linux nodes.
   group: bottom-toolbar.eda.labs
-  image: ghcr.io/tiago-amado/bottom-toolbar:v0.1.0
+  image: ghcr.io/tiago-amado/bottom-toolbar:v0.2.0
   supportedCoreVersions:
     - v4.0.0-0
     - v5.0.0-0
